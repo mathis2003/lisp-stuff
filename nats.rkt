@@ -1,5 +1,3 @@
-(require racket/match)
-
 (require (for-syntax racket/base))
 (require (for-syntax racket/match))
 
